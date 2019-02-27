@@ -1,0 +1,31 @@
+TODO
+    See it i can change test framework from junit to one in the below stack
+    Update pom when I have domain
+    Add components to build to display tutorial data in web page
+    Purchase domain name
+    Find and setup host that will support stack
+    Use DDD to help drive prototype development
+------------------------------------------------------------------
+STACK
+    Git/GitHub
+    Java
+    Spring
+    HTML5
+    Vue
+    React
+    Javascript
+    Maven
+    CircleCI
+    Mocha or Jest
+    Domain Driven Development
+------------------------------------------------------------------
+Feb 26 Thursday
+    Looked up stack technologies
+    Logged into GitHub and setup new repository
+    Created notes to keep track of process
+    Chose Maven over Gradle for no real reason
+    Will use notes to track features since Confluence costs money
+    Got VS Code for IDE and Git to work with repository
+    Starting with Spring guide for Java project w/ Maven
+        https://spring.io/guides/gs/maven/
+    
