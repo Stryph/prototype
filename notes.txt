@@ -1,9 +1,5 @@
 TODO
-    See it i can change test framework from junit to one in the below stack
-    Update pom when I have domain
-    Add components to build to display tutorial data in web page
-    Purchase domain name
-    Find and setup host that will support stack
+    Get a basic spring app published
     Use DDD to help drive prototype development
 ------------------------------------------------------------------
 STACK
@@ -19,7 +15,7 @@ STACK
     Mocha or Jest
     Domain Driven Development
 ------------------------------------------------------------------
-Feb 26 Thursday
+Feb 26 T
     Looked up stack technologies
     Logged into GitHub and setup new repository
     Created notes to keep track of process
@@ -28,4 +24,9 @@ Feb 26 Thursday
     Got VS Code for IDE and Git to work with repository
     Starting with Spring guide for Java project w/ Maven
         https://spring.io/guides/gs/maven/
-    
+-------------------------------------------------------------------------
+Feb 27 W
+    Setup then cancelled bluehost, too many restrictions on server
+    Got Amazon Lightsail instance @ 3.208.189.29 running Bitnami Node.js
+    Followed tutorial for Spring/Vue app
+        https://blog.codecentric.de/en/2018/04/spring-boot-vuejs/
